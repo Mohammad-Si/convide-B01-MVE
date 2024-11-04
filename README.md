@@ -1,2 +1,2 @@
 # convide-B01-MVE
-A Minimal Viable Example for the Convide B01 project
+A Minimum Viable Example for the Convide B01 project
