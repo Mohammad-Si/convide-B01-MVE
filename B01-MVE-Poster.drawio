@@ -11,25 +11,25 @@
           <mxGeometry x="6300" y="-1940" width="610" height="730" as="geometry" />
         </mxCell>
         <mxCell id="zioD-TQu_h1UFHvs3dOW-3" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;/p&gt;&lt;div style=&quot;height:2px;&quot;&gt;&lt;/div&gt;&lt;span style=&quot;font-weight: 700;&quot;&gt;&lt;div style=&quot;text-align: center;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&amp;nbsp;&lt;i&gt;PowerUsingPart&lt;/i&gt;&lt;/span&gt;&lt;/div&gt;&lt;/span&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;div style=&quot;height:2px;&quot;&gt;&lt;div style=&quot;height: 2px;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&amp;nbsp;maxUsedPower: Float&lt;/span&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="6525" y="-1669.5" width="140" height="52" as="geometry" />
+          <mxGeometry x="6525" y="-1649.5" width="140" height="52" as="geometry" />
         </mxCell>
         <mxCell id="zioD-TQu_h1UFHvs3dOW-4" value="" style="endArrow=block;endSize=16;endFill=0;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="zioD-TQu_h1UFHvs3dOW-16" target="zioD-TQu_h1UFHvs3dOW-3">
           <mxGeometry width="160" relative="1" as="geometry">
-            <mxPoint x="6365" y="-1421.5" as="sourcePoint" />
-            <mxPoint x="6475" y="-1529.5" as="targetPoint" />
+            <mxPoint x="6365" y="-1401.5" as="sourcePoint" />
+            <mxPoint x="6475" y="-1509.5" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="6495" y="-1580" />
-              <mxPoint x="6595" y="-1579.5" />
+              <mxPoint x="6495" y="-1560" />
+              <mxPoint x="6595" y="-1559.5" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="zioD-TQu_h1UFHvs3dOW-5" value="" style="endArrow=block;endSize=16;endFill=0;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="zioD-TQu_h1UFHvs3dOW-45" target="zioD-TQu_h1UFHvs3dOW-3">
           <mxGeometry width="160" relative="1" as="geometry">
-            <mxPoint x="6725" y="-1412.5" as="sourcePoint" />
-            <mxPoint x="6475" y="-1529.5" as="targetPoint" />
+            <mxPoint x="6725" y="-1392.5" as="sourcePoint" />
+            <mxPoint x="6475" y="-1509.5" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="6680" y="-1579" />
-              <mxPoint x="6595" y="-1579.5" />
+              <mxPoint x="6680" y="-1559" />
+              <mxPoint x="6595" y="-1559.5" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -85,7 +85,7 @@
           <mxGeometry x="6928" y="-1940" width="402" height="730" as="geometry" />
         </mxCell>
         <mxCell id="zioD-TQu_h1UFHvs3dOW-18" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;/p&gt;&lt;div style=&quot;height:2px;&quot;&gt;&lt;/div&gt;&lt;span style=&quot;font-weight: 700;&quot;&gt;&lt;div style=&quot;text-align: center;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&amp;nbsp;&lt;i&gt;PowerSupplyingPart&lt;/i&gt;&lt;/span&gt;&lt;/div&gt;&lt;/span&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;div style=&quot;height:2px;&quot;&gt;&lt;div style=&quot;height: 2px;&quot;&gt;&lt;div style=&quot;height: 2px;&quot;&gt;&amp;nbsp;safetyLevel: Enum&lt;/div&gt;&lt;div style=&quot;height: 2px;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;height: 2px;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;height: 2px;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;height: 2px;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;height: 2px;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;height: 2px;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;height: 2px;&quot;&gt;&amp;nbsp;maxSuppliedPower: Float&lt;/div&gt;&lt;div style=&quot;height: 2px;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;height: 2px;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;height: 2px;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;height: 2px;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;height: 2px;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;height: 2px;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;height: 2px;&quot;&gt;&amp;nbsp;rawMaterial: String&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="7120" y="-1669.5" width="150" height="80" as="geometry" />
+          <mxGeometry x="7110" y="-1669.5" width="150" height="80" as="geometry" />
         </mxCell>
         <mxCell id="zioD-TQu_h1UFHvs3dOW-19" value="" style="endArrow=diamondThin;endFill=1;endSize=24;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="zioD-TQu_h1UFHvs3dOW-29" target="zioD-TQu_h1UFHvs3dOW-30">
           <mxGeometry width="160" relative="1" as="geometry">
@@ -103,8 +103,8 @@
             <mxPoint x="7105" y="-1412.5" as="sourcePoint" />
             <mxPoint x="6655" y="-1520.5" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="7070" y="-1559" />
-              <mxPoint x="7195" y="-1559.5" />
+              <mxPoint x="7090" y="-1560" />
+              <mxPoint x="7185" y="-1559" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -114,7 +114,7 @@
             <mxPoint x="6655" y="-1520.5" as="targetPoint" />
             <Array as="points">
               <mxPoint x="7260" y="-1560" />
-              <mxPoint x="7195" y="-1559.5" />
+              <mxPoint x="7185" y="-1559" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -153,7 +153,7 @@
           <mxGeometry x="7205.5" y="-1539.5" width="110" height="50" as="geometry" />
         </mxCell>
         <mxCell id="zioD-TQu_h1UFHvs3dOW-30" value="&lt;span style=&quot;font-weight: 700; background-color: initial;&quot;&gt;BatteryPack&lt;/span&gt;" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="7015" y="-1539.5" width="110" height="50" as="geometry" />
+          <mxGeometry x="7035" y="-1539.5" width="110" height="50" as="geometry" />
         </mxCell>
         <mxCell id="zioD-TQu_h1UFHvs3dOW-31" value="Bosch" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=23;" vertex="1" parent="1">
           <mxGeometry x="7064" y="-1940" width="130" height="46" as="geometry" />
@@ -165,10 +165,10 @@
           <mxGeometry x="6944.5" y="-1424.5" width="140" height="72" as="geometry" />
         </mxCell>
         <mxCell id="zioD-TQu_h1UFHvs3dOW-34" value="&lt;b&gt;&lt;i&gt;CarPart&lt;/i&gt;&lt;/b&gt;" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="7140" y="-1758" width="110" height="50" as="geometry" />
+          <mxGeometry x="7130" y="-1758" width="110" height="50" as="geometry" />
         </mxCell>
         <mxCell id="zioD-TQu_h1UFHvs3dOW-35" value="&lt;b&gt;ECar&lt;/b&gt;" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="6980" y="-1758" width="110" height="50" as="geometry" />
+          <mxGeometry x="6970" y="-1758" width="110" height="50" as="geometry" />
         </mxCell>
         <mxCell id="zioD-TQu_h1UFHvs3dOW-36" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;/p&gt;&lt;div style=&quot;height:2px;&quot;&gt;&lt;/div&gt;&lt;span style=&quot;font-weight: 700;&quot;&gt;&lt;div style=&quot;text-align: center;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&amp;nbsp;&lt;i&gt;Product&lt;/i&gt;&lt;/span&gt;&lt;/div&gt;&lt;/span&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;div style=&quot;height:2px;&quot;&gt;&lt;div style=&quot;height: 2px;&quot;&gt;&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;maker: String&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;height: 2px;&quot;&gt;&lt;div style=&quot;height: 2px;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;height: 2px;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;height: 2px;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;height: 2px;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;height: 2px;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;height: 2px;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;height: 2px;&quot;&gt;&amp;nbsp;protocol: String&lt;/div&gt;&lt;/div&gt;&lt;div style=&quot;height: 2px;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;height: 2px;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;height: 2px;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;height: 2px;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;height: 2px;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;height: 2px;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;height: 2px;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;height: 2px;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;height: 2px;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;height: 2px;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;height: 2px;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="7045" y="-1869.5" width="140" height="63" as="geometry" />
@@ -178,7 +178,7 @@
             <mxPoint x="6915" y="-1678.33" as="sourcePoint" />
             <mxPoint x="7075" y="-1678.33" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="7035" y="-1772.5" />
+              <mxPoint x="7025" y="-1772" />
               <mxPoint x="7115" y="-1772.5" />
             </Array>
           </mxGeometry>
@@ -188,7 +188,7 @@
             <mxPoint x="7095" y="-1558.5" as="sourcePoint" />
             <mxPoint x="7295" y="-1690.67" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="7195" y="-1772.5" />
+              <mxPoint x="7185" y="-1772" />
               <mxPoint x="7115" y="-1772.5" />
             </Array>
           </mxGeometry>
@@ -224,7 +224,7 @@
           <mxGeometry x="6625" y="-1539.5" width="110" height="50" as="geometry" />
         </mxCell>
         <mxCell id="zioD-TQu_h1UFHvs3dOW-46" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;/p&gt;&lt;div style=&quot;height:2px;&quot;&gt;&lt;/div&gt;&lt;span style=&quot;font-weight: 700;&quot;&gt;&lt;div style=&quot;text-align: center;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;BatteryPack&lt;/span&gt;&lt;/div&gt;&lt;/span&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;div style=&quot;height:2px;&quot;&gt;&lt;div style=&quot;height: 2px;&quot;&gt;&lt;div style=&quot;height: 2px;&quot;&gt;&amp;nbsp;safetyLevel: Enum&lt;/div&gt;&lt;div style=&quot;height: 2px;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;height: 2px;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;height: 2px;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;height: 2px;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;height: 2px;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;height: 2px;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;height: 2px;&quot;&gt;&amp;nbsp;maxSuppliedPower: Float&lt;/div&gt;&lt;div style=&quot;height: 2px;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;height: 2px;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;height: 2px;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;height: 2px;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;height: 2px;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;height: 2px;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;height: 2px;&quot;&gt;&amp;nbsp;rawMaterial: String&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="6740" y="-1669.5" width="150" height="80" as="geometry" />
+          <mxGeometry x="6740" y="-1650" width="150" height="80" as="geometry" />
         </mxCell>
         <mxCell id="zioD-TQu_h1UFHvs3dOW-53" value="&lt;b&gt;&lt;i&gt;CarPart&lt;/i&gt;&lt;/b&gt;" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="6663" y="-1758" width="110" height="50" as="geometry" />
