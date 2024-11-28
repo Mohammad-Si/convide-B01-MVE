@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" version="24.9.2">
   <diagram name="Page-1" id="XI3CFFjFQJEELW7CZBs9">
-    <mxGraphModel dx="-4962" dy="2723" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="-3876" dy="3298" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -103,7 +103,7 @@
             <mxPoint x="7105" y="-1412.5" as="sourcePoint" />
             <mxPoint x="6655" y="-1520.5" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="7035" y="-1559.5" />
+              <mxPoint x="7070" y="-1559" />
               <mxPoint x="7195" y="-1559.5" />
             </Array>
           </mxGeometry>
@@ -113,6 +113,7 @@
             <mxPoint x="7275" y="-1398.5" as="sourcePoint" />
             <mxPoint x="6655" y="-1520.5" as="targetPoint" />
             <Array as="points">
+              <mxPoint x="7260" y="-1560" />
               <mxPoint x="7195" y="-1559.5" />
             </Array>
           </mxGeometry>
@@ -149,10 +150,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="zioD-TQu_h1UFHvs3dOW-29" value="&lt;span style=&quot;font-weight: 700; background-color: initial;&quot;&gt;Battery&lt;/span&gt;" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="7140" y="-1539.5" width="110" height="50" as="geometry" />
+          <mxGeometry x="7205.5" y="-1539.5" width="110" height="50" as="geometry" />
         </mxCell>
         <mxCell id="zioD-TQu_h1UFHvs3dOW-30" value="&lt;span style=&quot;font-weight: 700; background-color: initial;&quot;&gt;BatteryPack&lt;/span&gt;" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="6980" y="-1539.5" width="110" height="50" as="geometry" />
+          <mxGeometry x="7015" y="-1539.5" width="110" height="50" as="geometry" />
         </mxCell>
         <mxCell id="zioD-TQu_h1UFHvs3dOW-31" value="Bosch" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=23;" vertex="1" parent="1">
           <mxGeometry x="7064" y="-1940" width="130" height="46" as="geometry" />
